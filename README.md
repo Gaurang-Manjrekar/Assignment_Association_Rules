@@ -1,4 +1,4 @@
-# Assignment_Association_Rules_1
+# Assignment_Association_Rules
 
 ## Prepare rules for the all the data sets
 
